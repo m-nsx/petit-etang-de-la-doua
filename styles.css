@@ -59,6 +59,7 @@ header .menu ul li a:hover {
     background: rgba(0, 0, 0, 0.5);
     padding: 50px;
     border-radius: 50px;
+    max-width: 90%;
 }
 
 h1 {
@@ -94,6 +95,7 @@ p {
     justify-content: center;
     gap: 20px;
     padding: 50px 20px;
+    flex-wrap: wrap;
 }
 
 .tile {
